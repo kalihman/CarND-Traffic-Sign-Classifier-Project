@@ -31,7 +31,7 @@ This bar chart shows the data distribution of the training data. Each bar repres
 
 Here are some traffic signs from the training data set. More can be found in the jupyter notebook.
 
-![original training images](./images/training_data_raw.jpg "original training images")
+![original training images](./images/signs.png "original training images")
 
 ### Design and Test a Model Architecture
 
